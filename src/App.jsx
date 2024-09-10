@@ -1,9 +1,11 @@
 import React from 'react'
-
+import AllAboutCancerRouting from './routers/AllAboutCancerRouting'
+import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 export default function App() {
   return (
     <div>
-      <h1>health lobrary develop by tabrej</h1>
+    <AllAboutCancerRouting/>
     </div>
   )
 }
