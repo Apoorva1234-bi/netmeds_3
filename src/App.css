@@ -45,3 +45,24 @@
 .educationvediocard img:hover {
   width: 100%;
 }
+.allaboutcancer_part2{
+    background-color: rgb(150, 244, 211);
+    height: 530px;
+}
+.AAC_downloadbutton Button{
+  background-color: purple;
+  color: white;
+  cursor: pointer;
+  border-radius: 15px;
+  padding: 1rem 1.5rem;
+  font-size: 1rem;
+}
+.AAC_downloadbutton Button:hover {
+  border: 1px solid black;
+  background-color: rgb(247, 12, 12);
+}
+
+.allaboutcancer_part3{
+  background-color: rgb(15, 243, 243);
+  text-align: center;
+}
